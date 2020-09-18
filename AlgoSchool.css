@@ -29,7 +29,7 @@ body {
 @media (min-width: 900px) {
 	.navbar .nav-link:hover {
 		font-weight: 600 !important;
-		background-color: rgba(230,230,255);		
+		background: black;		
 		margin: 0 !important;
 		padding-left: 0;
 	}
@@ -74,6 +74,7 @@ ul .nav-item {
 	border-radius: 15px;	
 	padding: 2em 2em 2em 2em;
 	margin: 2em;
+	margin-top: 6em;
 	margin-bottom: 2.5em;	
 	background: repeating-linear-gradient(to top, rgba(200,255,200), rgba(230,230,255), rgba(200,255,200), rgba(230,230,255));		
 }
