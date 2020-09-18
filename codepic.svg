@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1296 1728" style="enable-background:new 0 0 1296 1728;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#CC0033;}
+	.st2{font-family:'Consolas';}
+	.st3{font-size:48px;}
+	.st4{fill:#FF9900;}
+	.st5{fill:#0033CC;}
+	.st6{fill:#009933;}
+	.st7{letter-spacing:9;}
+	.st8{fill:#3399CC;}
+	.st9{fill:#9933CC;}
+</style>
+<rect x="54.48" y="34.27" class="st0" width="1192" height="1664.71"/>
+<text transform="matrix(1 0 0 1 54.4804 67.3943)"><tspan x="0" y="0" class="st1 st2 st3">#include</tspan><tspan x="211.13" y="0" class="st2 st3"> </tspan><tspan x="237.52" y="0" class="st4 st2 st3">&lt;iostream&gt;</tspan><tspan x="0" y="57.6" class="st1 st2 st3">#include </tspan><tspan x="237.52" y="57.6" class="st4 st2 st3">&lt;rainy_day&gt;</tspan><tspan x="0" y="115.2" class="st1 st2 st3">using namespace</tspan><tspan x="395.86" y="115.2" class="st2 st3"> std;</tspan><tspan x="0" y="230.4" class="st5 st2 st3">int</tspan><tspan x="79.17" y="230.4" class="st2 st3"> </tspan><tspan x="105.56" y="230.4" class="st6 st2 st3">main</tspan><tspan x="211.13" y="230.4" class="st2 st3">() </tspan><tspan x="0" y="288" class="st2 st3">{</tspan><tspan x="0" y="345.6" class="st2 st3 st7">	</tspan><tspan x="36" y="345.6" class="st8 st2 st3">printf</tspan><tspan x="194.34" y="345.6" class="st2 st3">(</tspan><tspan x="220.73" y="345.6" class="st4 st2 st3">&quot;It is raining outside.&quot;</tspan><tspan x="854.11" y="345.6" class="st2 st3">);</tspan><tspan x="0" y="403.2" class="st5 st2 st3 st7">	</tspan><tspan x="36" y="403.2" class="st5 st2 st3">bool</tspan><tspan x="141.56" y="403.2" class="st2 st3"> raining_outside = </tspan><tspan x="642.98" y="403.2" class="st9 st2 st3">true</tspan><tspan x="748.55" y="403.2" class="st2 st3">;</tspan><tspan x="0" y="518.4" class="st2 st3 st7">	</tspan><tspan x="36" y="518.4" class="st1 st2 st3">if</tspan><tspan x="88.78" y="518.4" class="st2 st3">(you.</tspan><tspan x="220.73" y="518.4" class="st8 st2 st3">go_outside</tspan><tspan x="484.64" y="518.4" class="st2 st3">() == </tspan><tspan x="642.98" y="518.4" class="st9 st2 st3">true</tspan><tspan x="748.55" y="518.4" class="st2 st3">) </tspan><tspan x="0" y="576" class="st2 st3 st7">	</tspan><tspan x="36" y="576" class="st2 st3">{</tspan><tspan x="0" y="633.6" class="st2 st3 st7">		</tspan><tspan x="72" y="633.6" class="st2 st3">you.</tspan><tspan x="177.56" y="633.6" class="st8 st2 st3">use_umbrella</tspan><tspan x="494.25" y="633.6" class="st2 st3">();</tspan><tspan x="0" y="691.2" class="st2 st3 st7">	</tspan><tspan x="36" y="691.2" class="st2 st3">}</tspan><tspan x="0" y="748.8" class="st1 st2 st3 st7">	</tspan><tspan x="36" y="748.8" class="st1 st2 st3">else</tspan><tspan x="0" y="806.4" class="st2 st3 st7">	</tspan><tspan x="36" y="806.4" class="st2 st3">{</tspan><tspan x="0" y="864" class="st2 st3 st7">		</tspan><tspan x="72" y="864" class="st2 st3">you.</tspan><tspan x="177.56" y="864" class="st8 st2 st3">enjoy</tspan><tspan x="309.52" y="864" class="st2 st3">();</tspan><tspan x="0" y="921.6" class="st2 st3 st7">	</tspan><tspan x="36" y="921.6" class="st2 st3">}</tspan><tspan x="0" y="1036.8" class="st2 st3 st7">	</tspan><tspan x="36" y="1036.8" class="st1 st2 st3">return</tspan><tspan x="194.34" y="1036.8" class="st2 st3"> 0;</tspan><tspan x="0" y="1094.4" class="st2 st3">}</tspan></text>
+</svg>
