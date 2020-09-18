@@ -121,7 +121,7 @@ ul .nav-item {
 @media (max-width: 900px) {
 	
 	.ctm-div1 .ctm-col {
-		padding: 3em 1em 0em 2em;
+		padding: 0em 1em 0em 2em;
 	}
 
 }
@@ -196,7 +196,7 @@ ul .nav-item {
 		border-radius: 0px;	
 		margin: 0em;
 		padding-top: 3em;
-		padding-bottom: 5em;
+		padding-bottom: 2em;
 	}
 
 }
@@ -281,12 +281,14 @@ ul .nav-item {
 @media (max-width: 900px) {
 	
 	.ctm-div25 {
+		border: none;
 		border-radius: 0px;	
 		margin: 0;
-		padding-top: 3em;
+		padding-top: 4em;
 	}
 
 }
+
 
 .block-billgates p{
 	padding-top: 3em;
@@ -295,12 +297,35 @@ ul .nav-item {
 	font-weight: 500;
 }
 
+@media (max-width: 900px) {
+	
+	.block-billgates p{
+		padding-top: 1em;
+		padding-left: 1em;
+		font-size: 1.3rem;
+		font-weight: 500;
+	}
+
+}
+
 #by {
 	padding-top: 1.5em;
 	font-size: 1.2rem;
 	font-weight: 300;
 	padding-left: 28em;
 }
+
+@media (max-width: 900px) {
+	
+	#by {
+		padding-top: 1.5em;
+		font-size: 1rem;
+		font-weight: 300;
+		padding-left: 5em;
+	}
+
+}
+
 
 .block-codingindia p{
 	padding-top: 3em;
