@@ -17,7 +17,7 @@ body {
 }
 
 .navbar-brand {
-	font: 2rem 'Inconsolata', monospace;
+	font: 1.7rem 'Inconsolata', monospace;
 	font-weight: 700 !important;
 }
 
@@ -307,6 +307,7 @@ ul .nav-item {
 .ctm-div3 h2 {
 	font-size: 2.6rem;
 	font-weight: 500;
+	padding-left: 1.1em;	
  	/*border: solid;*/
 }
 
@@ -395,6 +396,7 @@ ul .nav-item {
 .ctm-div4 h2 {
 	font-size: 2.6rem;
 	font-weight: 500;
+	padding-left: 1.3em;
  	/*border: solid;*/
 }
 
