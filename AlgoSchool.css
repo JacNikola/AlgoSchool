@@ -371,7 +371,7 @@ ul .nav-item {
 	border: solid;
 	border-color: white;
 	border-radius: 15px;	
-	padding: 4em 3em 0em 3em;
+	padding: 4em 3em 2em 3em;
 	margin: 2em;
 	margin-bottom: 2.5em;	
 	background: repeating-linear-gradient(to top, rgba(200,255,200), rgba(230,230,255), rgba(200,255,200), rgba(230,230,255));		
